@@ -36,19 +36,10 @@ The application window will open displaying system resource stats. Use the tabs 
 
 Below is a demo video showcasing SysTrack's features and interface:
 
-![SysTrack Demo](demo_video.gif)
+![SysTrack Demo](assets/demo_video.gif)
 
-> To include a video on your GitHub README:
-> - Convert your demo video to a GIF for inline display, or
-> - Upload the video file to your repository or an external hosting platform (e.g., YouTube, Vimeo).
-> - Link to the video using Markdown:
-> 
-> For a GIF:
-> ```
-> ![Demo](path/to/demo_videoideo link:
-> ```
 > [Watch Demo Video](https://your-video-link)
-> ```
+
 
 ## Logging
 
